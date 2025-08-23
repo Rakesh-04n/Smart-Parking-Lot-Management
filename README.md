@@ -29,3 +29,6 @@ g++ parking.cpp -o parking
 
 3. Run the program
 ./parking
+![Sample Output](./<img width="1686" height="962" alt="Screenshot 2025-08-23 233159" src="https://github.com/user-attachments/assets/1191c6da-a79c-4c14-8e13-6f345cb70146" />
+
+)
